@@ -2,11 +2,11 @@
   "name": "resilient",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "work.js",
   "scripts": {
     "create-user": "node create-user",
-    "excavate": "node excavate",
-    "store": "node store"
+    "get-totals": "node get-totals",
+    "start" : "node work"
   },
   "keywords": [],
   "author": "Tim Davis",

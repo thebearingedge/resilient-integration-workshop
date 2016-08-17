@@ -1,16 +1,15 @@
-var fs = require('fs')
-var { store, excavate } = require('.')
-
-var userJSON = fs.readFileSync(__dirname + '/user.json', 'utf8')
-var { user } = JSON.parse(userJSON)
-
+var { store, excavate, DirtError, logError } = require('./helpers')
+var { user } = require('./user.json')
 
 function work() {
   excavate()
+    .then(payload => {
+      if (payload.gold) return payload
+      return Promise.reject(new DirtError())
+    })
     .then(({ bucketId }) => store(user, bucketId))
+    .catch(logError)
     .then(work)
-    .catch(work)
 }
-
 
 work()

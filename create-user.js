@@ -1,3 +1,5 @@
-var createUser = require('.').createUser
+var { createUser } = require('./helpers')
 
-createUser()
+var USERNAME = 'team-kickass'
+
+createUser(USERNAME)
