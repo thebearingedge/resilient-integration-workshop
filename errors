@@ -1033,3 +1033,325 @@ NaN
 NaN
 NaN
 NaN
+NaN
+NaN
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+502 - {"error":"bad gateway"}StatusCodeError: 502 - {"error":"bad gateway"}
+    at new StatusCodeError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:32:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:1044:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:965:12)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+NaN
+NaN
+NaN
+NaN
+NaN
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+502 - {"error":"bad gateway"}StatusCodeError: 502 - {"error":"bad gateway"}
+    at new StatusCodeError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:32:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:1044:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:965:12)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+NaN
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+502 - {"error":"bad gateway"}StatusCodeError: 502 - {"error":"bad gateway"}
+    at new StatusCodeError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:32:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:1044:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:965:12)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+502 - {"error":"bad gateway"}StatusCodeError: 502 - {"error":"bad gateway"}
+    at new StatusCodeError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:32:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:1044:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:965:12)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+NaN
+502 - {"error":"bad gateway"}StatusCodeError: 502 - {"error":"bad gateway"}
+    at new StatusCodeError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:32:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:1044:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:965:12)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+NaN
+NaN
+NaN
+NaN
+NaN
+502 - {"error":"bad gateway"}StatusCodeError: 502 - {"error":"bad gateway"}
+    at new StatusCodeError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:32:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:1044:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:965:12)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+NaN
+NaN
+NaN
+NaN
+NaN
+500 - "whoops, stuff is broken"StatusCodeError: 500 - "whoops, stuff is broken"
+    at new StatusCodeError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:32:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:1044:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/Users/P48VCorp/resilient/node_modules/request/request.js:965:12)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+NaN
+NaN
+NaN
+NaN
+NaN
+NaN
+NaN
+Error: ETIMEDOUTRequestError: Error: ETIMEDOUT
+    at new RequestError (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/Users/P48VCorp/resilient/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/P48VCorp/resilient/node_modules/request/request.js:187:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Timeout._onTimeout (/Users/P48VCorp/resilient/node_modules/request/request.js:762:12)
+    at tryOnTimeout (timers.js:228:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+NaN
+NaN
+NaN
